@@ -5,7 +5,7 @@
 <p> Fiz uma versão da página de login na versão noturna <p/></center>
   
 <p align="center"><h2>Versão desktop</h2></center>
-<p align="center"<img src="https://user-images.githubusercontent.com/79284447/116480341-8ad88980-a857-11eb-939b-9f6b1358eca2.png"></center>
+<p align="center"><img src="https://user-images.githubusercontent.com/79284447/116480341-8ad88980-a857-11eb-939b-9f6b1358eca2.png"></center>
 <h2>Versão mobile</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/79284447/116480345-8e6c1080-a857-11eb-9c3a-d191a6cc696c.png"></center>
 
