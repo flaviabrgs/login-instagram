@@ -1,5 +1,5 @@
 
-<h1>Recriando a página do login do Instagram</h1>
+<h1>Recriando a página inicial do Instagram</h1>
 
 <p align=”center”><p> Repositório para a aula de Flexbox do bootcamp HTML Web Developer desenvolvido pela Digital Innovation one para iniciantes.<p>
 <p> Fiz uma versão da página de login na versão noturna <p/></center>
