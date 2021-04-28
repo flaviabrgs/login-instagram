@@ -13,4 +13,6 @@
 <ul>
   <li>VsCode</li>
   <li>Adobe Photoshop</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
