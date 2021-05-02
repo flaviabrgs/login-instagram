@@ -11,7 +11,7 @@
 
 <h2>💻 Tecnologias utilizadas </h2>
 <ul>
-  <li>VsCode</li>
+  <li>VSCode</li>
   <li>Adobe Photoshop</li>
   <li>HTML</li>
   <li>CSS</li>
