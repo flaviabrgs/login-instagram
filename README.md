@@ -2,7 +2,7 @@
 <h1>💻 Recriando a página inicial do Instagram</h1>
 
 <p align=”center”><p> Repositório para a aula de Flexbox do bootcamp HTML Web Developer desenvolvido pela Digital Innovation one para iniciantes.<p>
-<p> Fiz uma versão da página de login na versão noturna<p/></center>
+
   
 <p align="center"><h2>Desktop view</h2></center>
 <p align="center"><img src="https://user-images.githubusercontent.com/79284447/116823513-59afd000-ab5b-11eb-80a7-31752892a458.png"></center>
